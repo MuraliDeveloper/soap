@@ -1,0 +1,10 @@
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+   <S:Body>
+      <ns2:getEmployeeResponse xmlns:ns2="http://emp.service.test.com/">
+         <return>
+            <errorCode>00</errorCode>
+            <errorMsg>error details are ::null</errorMsg>
+         </return>
+      </ns2:getEmployeeResponse>
+   </S:Body>
+</S:Envelope>
